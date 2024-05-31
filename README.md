@@ -1,4 +1,18 @@
 # comporg_simulation1
+
+Computer Organization - Spring 2024
+==============================================================
+## Iran Univeristy of Science and Technology
+## Assignment 1: Assembly code execution on phoeniX RISC-V core
+
+- Name:pouria masoumi
+- Team Members:ashkan ghasemineghad
+- Student ID: 400414084
+
+
+
+
+
 name: ashkan ghaseminezhad team member: pooria masoomi student id : 400414093
 
 report
